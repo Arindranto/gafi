@@ -1,0 +1,15 @@
+D:\safidy\c#\EnveloppeConvexe\bin\Debug\net6.0\EnveloppeConvexe.exe
+D:\safidy\c#\EnveloppeConvexe\bin\Debug\net6.0\EnveloppeConvexe.deps.json
+D:\safidy\c#\EnveloppeConvexe\bin\Debug\net6.0\EnveloppeConvexe.runtimeconfig.json
+D:\safidy\c#\EnveloppeConvexe\bin\Debug\net6.0\EnveloppeConvexe.dll
+D:\safidy\c#\EnveloppeConvexe\bin\Debug\net6.0\EnveloppeConvexe.pdb
+D:\safidy\c#\EnveloppeConvexe\obj\Debug\net6.0\EnveloppeConvexe.csproj.AssemblyReference.cache
+D:\safidy\c#\EnveloppeConvexe\obj\Debug\net6.0\EnveloppeConvexe.GeneratedMSBuildEditorConfig.editorconfig
+D:\safidy\c#\EnveloppeConvexe\obj\Debug\net6.0\EnveloppeConvexe.AssemblyInfoInputs.cache
+D:\safidy\c#\EnveloppeConvexe\obj\Debug\net6.0\EnveloppeConvexe.AssemblyInfo.cs
+D:\safidy\c#\EnveloppeConvexe\obj\Debug\net6.0\EnveloppeConvexe.csproj.CoreCompileInputs.cache
+D:\safidy\c#\EnveloppeConvexe\obj\Debug\net6.0\EnveloppeConvexe.dll
+D:\safidy\c#\EnveloppeConvexe\obj\Debug\net6.0\refint\EnveloppeConvexe.dll
+D:\safidy\c#\EnveloppeConvexe\obj\Debug\net6.0\EnveloppeConvexe.pdb
+D:\safidy\c#\EnveloppeConvexe\obj\Debug\net6.0\EnveloppeConvexe.genruntimeconfig.cache
+D:\safidy\c#\EnveloppeConvexe\obj\Debug\net6.0\ref\EnveloppeConvexe.dll
