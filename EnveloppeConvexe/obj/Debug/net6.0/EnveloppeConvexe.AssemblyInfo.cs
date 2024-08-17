@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnveloppeConvexe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2740989cc8f95a5518a0e85aac0421a732774bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnveloppeConvexe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnveloppeConvexe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

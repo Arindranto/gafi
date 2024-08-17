@@ -1,0 +1,30 @@
+﻿<Window x:Class="ApplicationEnveloppeConvexe.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ApplicationEnveloppeConvexe"
+        mc:Ignorable="d"
+        Title="Enveloppe Convexe" Height="450" Width="800" WindowState="Maximized" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <DockPanel Margin="5">
+            <StackPanel DockPanel.Dock="Bottom" Margin="0 10">
+                <Button DockPanel.Dock="Top" Content="Afficher" Height="30" Cursor="Hand" Click="Button_Click" />
+            </StackPanel>
+            <ScrollViewer DockPanel.Dock="Top" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+                <DockPanel VerticalAlignment="Stretch">
+                    <Label DockPanel.Dock="Top" Margin="0 0 10 0" FontSize="15" FontWeight="Bold">Coordonnées</Label>
+                    <RichTextBox  Name="RTBCoord"></RichTextBox>
+                </DockPanel>
+            </ScrollViewer>
+        </DockPanel>
+        <Canvas Grid.Column="1" Margin="20">
+            <Line Stroke="Black" StrokeThickness="2" X1="0" Y1="0" X2="0" Y2="{Binding Path=ActualHeight, RelativeSource={RelativeSource AncestorType={x:Type Canvas}}}"></Line>
+            <Line Stroke="Black" StrokeThickness="2" X1="0" Y1="{Binding Path=ActualHeight, RelativeSource={RelativeSource AncestorType={x:Type Canvas}}}" X2="{Binding Path=ActualWidth, RelativeSource={RelativeSource AncestorType={x:Type Canvas}}}" Y2="{Binding Path=ActualHeight, RelativeSource={RelativeSource AncestorType={x:Type Canvas}}}"></Line>
+        </Canvas>
+    </Grid>
+</Window>
