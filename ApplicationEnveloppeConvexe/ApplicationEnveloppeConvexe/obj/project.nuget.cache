@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gUJQyI6v9B4=",
+  "dgSpecHash": "hiS6lMQiZTo=",
   "success": true,
-  "projectFilePath": "E:\\safidy\\gafi\\ApplicationEnveloppeConvexe\\ApplicationEnveloppeConvexe\\ApplicationEnveloppeConvexe.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\OS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\OS\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\OS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\OS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
-  ],
+  "projectFilePath": "E:\\Projects\\C#\\gafi\\ApplicationEnveloppeConvexe\\ApplicationEnveloppeConvexe\\ApplicationEnveloppeConvexe.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

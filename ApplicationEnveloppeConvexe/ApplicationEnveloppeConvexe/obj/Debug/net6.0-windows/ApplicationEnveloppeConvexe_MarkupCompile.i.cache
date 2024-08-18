@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\safidy\gafi\ApplicationEnveloppeConvexe\ApplicationEnveloppeConvexe\obj\Debug\net6.0-windows\
+E:\Projects\C#\gafi\ApplicationEnveloppeConvexe\ApplicationEnveloppeConvexe\obj\Debug\net6.0-windows\
 ApplicationEnveloppeConvexe
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-E:\safidy\gafi\ApplicationEnveloppeConvexe\ApplicationEnveloppeConvexe\App.xaml
-11407045341
+E:\Projects\C#\gafi\ApplicationEnveloppeConvexe\ApplicationEnveloppeConvexe\App.xaml
+2-2054768414
 
-6-1679335615
-194-1377731740
-MainWindow.xaml;
+1012162277
+194-253927392
+Components\Point.xaml;MainWindow.xaml;
 
-True
+False
 
